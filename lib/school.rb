@@ -12,6 +12,7 @@ class School
 
     array << add_student(value)
   end
+  end
 
   def school
     @school
