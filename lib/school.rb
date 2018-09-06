@@ -10,7 +10,7 @@ class School
 
     }
 
-    array << add_student(value)
+    array << roster
 
   end
 
