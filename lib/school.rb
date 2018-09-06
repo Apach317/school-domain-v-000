@@ -10,4 +10,8 @@ class School
 
     }
   end
+
+  def school
+    @school
+  end
 end
