@@ -4,6 +4,6 @@ class School
   attr_accessor :grade, :class
   attr_reader :school
   def initialize(school)
-    @school = school.new
+    @school = school
   end
 end
