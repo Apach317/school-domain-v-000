@@ -11,7 +11,7 @@ class School
     }
 
     array << add_student(value)
-  end
+
   end
 
   def school
@@ -19,7 +19,7 @@ class School
   end
 
   def add_student(name, grade)
-
+end
 
 
 end
