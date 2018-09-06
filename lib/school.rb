@@ -10,4 +10,4 @@ class School
   def add_student
     @school = school.new
   end
-  
+end
