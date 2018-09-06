@@ -14,4 +14,5 @@ class School
   def school
     @school
   end
+  school.new
 end
