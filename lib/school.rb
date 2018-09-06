@@ -4,10 +4,13 @@ class School
 
 
   def initialize(school)
+    array = []
     @school = school
-    roster(name, grade) = {
+    roster = {
 
     }
+
+    array << add_student(value)
   end
 
   def school
@@ -15,6 +18,7 @@ class School
   end
 
   def add_student(name, grade)
+
 
 
 end
