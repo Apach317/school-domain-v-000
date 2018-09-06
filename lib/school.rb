@@ -31,7 +31,7 @@ class School
 
   def sort
     @roster.each do |new_grade, student|
-      student.sort
+      student.sort!
     end
   end
 
