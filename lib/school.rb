@@ -7,7 +7,7 @@ class School
     @school = school
   end
 
-  def add_student
+  def add_student(school)
     @school = school.new
   end
 end
